@@ -5,7 +5,7 @@
 
 
 
-=======================git分支切换命令=============================
+### git分支切换命令###
 
 克隆远程仓库:  git clone githubSrc
 
@@ -21,4 +21,3 @@ git branch --set-upstream-to=origin/dev dev
 git branch --set-upstream dev origin/dev
 git config --global push.default matching
 
-===================================================================
